@@ -1,0 +1,29 @@
+DxLayer License
+
+Copyright (c) 2026 Umut. All rights reserved except as granted below.
+
+1. Use. You may download, build, run and use DxLayer, in source or compiled
+   form, for free, for your own use.
+
+2. Changes. You may change the source for your own use, and keep your
+   changed copies for yourself.
+
+3. No publishing. You may not publish, redistribute, re-upload, sell or
+   otherwise share DxLayer, or any changed version of it, or any substantial
+   part of its source, in source or compiled form, anywhere, without written
+   permission from the copyright holder. This includes mirrors, re-uploads,
+   bundling it with other software, and releasing a changed version under
+   another name. Linking to the official repository is always fine.
+
+4. Contributions. You may suggest changes through the official repository
+   (for example, as pull requests). By doing so you agree that they may be
+   included in DxLayer under this license.
+
+5. Third-party code. Dear ImGui, in DxLayer/imgui, is under its own MIT
+   License (DxLayer/imgui/LICENSE.txt), and this license does not change it.
+   ReShade and shader packs are not part of DxLayer and keep their own
+   licenses.
+
+6. No warranty. DxLayer is provided "as is", without warranty of any kind.
+   The copyright holder is not liable for any claim, damage or other
+   liability arising from its use. Use it at your own risk.
