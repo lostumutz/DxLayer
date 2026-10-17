@@ -283,3 +283,4 @@ DxLayer isn't affiliated with Roblox or ReShade. It doesn't read or change the R
 - [ReShade](https://github.com/crosire/reshade) by crosire, BSD 3-Clause License. ReShade isn't included in this repository.
 - Shader packs belong to their authors and come under their own licenses. Get them through the ReShade installer.
 
+NOTE: Claude was used to make this.
